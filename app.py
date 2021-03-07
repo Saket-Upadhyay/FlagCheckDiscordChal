@@ -50,16 +50,15 @@ FrigidSec DPC Flag Check</title>
 <meta name="description" content="FrigidSec Discord Challenge Check">
 <style>
 body {background-color:#ffffff;background-repeat:no-repeat;background-position:top left;background-attachment:fixed;}
-h1{text-align:center;font-family:Times, serif;color:#000000;background-color:#ffffff;}
+h1{text-align:center;font-family:Impact, sans-serif;color:#000000;background-color:#ffffff;}
 p {text-align:center;font-family:Georgia, serif;font-size:14px;font-style:normal;font-weight:bold;color:#000000;background-color:#ffffff;}
 </style>
+
 </head>
 <body>
 <h1>FrigidSec DPC Flag Checker API</h1>
-<p>This API checks flag when you give SHA256 dump of your flag in ?check= parameter</p>
-<p></p>
-<p>For example: </p>
-<p>https://frigidsec-dpc-flagcheck.herokuapp.com?check=e525dd0a29c3b8e9b223d7cc79d1393dd2b8c92ca9761968233d944242939605</p>
+<br>
+<h3>Are you sure you provided <a style=\"color:red;\">SHA-256</a> hash ?? Check again mate, it doesn't looks like one.</h3>
 </body>
 </html>
 
