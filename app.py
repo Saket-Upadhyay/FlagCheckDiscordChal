@@ -131,7 +131,7 @@ p {text-align:center;font-family:Georgia, serif;font-size:14px;font-style:normal
 <p>For example: </p>
 <p>https://frigidsec-dpc-flagcheck.herokuapp.com/whatisthisbehaviourmona?check=e525dd0a29c3b8e9b223d7cc79d1393dd2b8c92ca9761968233d944242939605</p>
 <br>
-<p>But why are you even here, when we have provided a simple input field <a href="/">HERE</a>? Not everything is a CTF, sometimes it's just simple software. Is that too much to ask?</p>
+<h3>But what are you doing here when we have provided a SIMPLE input field <a href="/">AT THIS PLACE</a>? Not everything is a CTF, sometimes it's just simple software. Is that too much to ask?</h3>
 </center>
 
         """
