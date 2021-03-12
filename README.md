@@ -1,3 +1,5 @@
 ### Readme... or not
 
-![](https://github.com/Saket-Upadhyay/FlagCheckDiscordChal/blob/main/temp/doc/img/Screenshot%202021-03-10%20190629.png)
+Development moved to : [AviusX/dpc-challenge-manager](https://github.com/AviusX/dpc-challenge-manager)
+
+Because @AviusX has better UI <\_< , and this was just a prototype anyways.
